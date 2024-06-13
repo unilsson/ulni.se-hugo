@@ -1,5 +1,5 @@
 ---
-title: Om mig
+title: Om Ulf Nilsson
 #subtitle: Why you'd want to go on a date with me
 comments: false
 ---
