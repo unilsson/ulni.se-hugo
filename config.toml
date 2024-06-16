@@ -1,4 +1,5 @@
-baseurl = "https://www.ulni.se"
+baseurl = "/"
+languageCode = "sv"
 DefaultContentLanguage = "sv"
 title = "ulni.se"
 # Using theme as git submodule 
@@ -118,3 +119,4 @@ pygmentsCodefencesGuessSyntax = true
     name = "Tags"
     url = "tags"
     weight = 3
+
