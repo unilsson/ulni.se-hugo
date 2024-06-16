@@ -1,11 +1,10 @@
 ---
-title: Om Ulf Nilsson
+title: Om Ulf Nilsson   
 #subtitle: Why you'd want to go on a date with me
 comments: false
 ---
 
-Den här websajten handlar om Ulf Nilsson; teoretisk fysiker, nätverksarkitekt oc
-h utvecklare av 3G,4G, 5G och 6G mobila system. Jag har under nästan 20 år på [Telia (https://www.teliacompany.com) arbetat med standardisering inom [3GPP](https://www.3gpp.org), [ETSI](https://www.etsi.org), [IETF](https://www.ietf.org) och [NGMN](https://ngmn.org). 
+Den här websajten handlar om Ulf Nilsson; teoretisk fysiker, nätverksarkitekt och utvecklare av 3G,4G, 5G och 6G mobila system. Jag har under nästan 20 år på [Telia](https://www.teliacompany.com) arbetat med standardisering inom [3GPP](https://www.3gpp.org), [ETSI](https://www.etsi.org), [IETF](https://www.ietf.org) och [NGMN](https://ngmn.org). 
 
 Jag har doktorerat i Teoretisk Fysik vid [Stockholms Universitet](https://www.su.se/fysikum) och varit Postdoc på [Department of Applied Mathematics, University of Waterloo](https://uwaterloo.ca/applied-mathematics) i Ontario, Kanada. Mina forskningsområden var allmän relativitetsteori, kosmologi, stjärnmodeller, självsimilära system, strängteori och lågtemperaturfysik. 
 
