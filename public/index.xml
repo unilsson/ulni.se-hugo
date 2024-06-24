@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>ulni.se</title>
+    <link>/</link>
+    <description>Recent content on ulni.se</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>sv</language>
+    <managingEditor>unilsson@ipfabriken.se (Ulf Nilsson)</managingEditor>
+    <webMaster>unilsson@ipfabriken.se (Ulf Nilsson)</webMaster>
+    <lastBuildDate>Sun, 09 Jun 2024 17:30:20 +0200</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Publikationslista</title>
+      <link>/page/publikationslista/</link>
+      <pubDate>Sun, 09 Jun 2024 17:30:20 +0200</pubDate>
+      <author>unilsson@ipfabriken.se (Ulf Nilsson)</author>
+      <guid>/page/publikationslista/</guid>
+      <description>Nilsson U. S. and Uggla C. &amp;ldquo;Spatially self-similar locally rotationally symmetric perfect fluid models&amp;rdquo;, Classical and Quantum Gravity 13, 6 (Jun 1996), 1601
+Nilsson U. S. and Uggla C. &amp;ldquo;Stationary Bianchi type II perfect fluid models&amp;rdquo;, Journal of Mathematical Physics 38, 5 (May 1997), 2611&amp;ndash;2615
+Nilsson U. S. and Uggla C. &amp;ldquo;Hypersurface homogeneous and hypersurface self-similar models&amp;rdquo;, Classical and Quantum Gravity 14, 7 (Jul 1997), 1965
+Nilsson U. S. and Uggla C.</description>
+    </item>
+    
+    <item>
+      <title>Om Ulf Nilsson</title>
+      <link>/page/om/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <author>unilsson@ipfabriken.se (Ulf Nilsson)</author>
+      <guid>/page/om/</guid>
+      <description>Den här websajten handlar om Ulf Nilsson; teoretisk fysiker, nätverksarkitekt och utvecklare av 3G,4G, 5G och 6G mobila system. Jag har under nästan 20 år på Telia arbetat med standardisering inom 3GPP, ETSI, IETF och NGMN.
+Jag har doktorerat i Teoretisk Fysik vid Stockholms Universitet och varit Postdoc på Department of Applied Mathematics, University of Waterloo i Ontario, Kanada. Mina forskningsområden var allmän relativitetsteori, kosmologi, stjärnmodeller, självsimilära system, strängteori och lågtemperaturfysik.</description>
+    </item>
+    
+  </channel>
+</rss>
